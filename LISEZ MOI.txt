@@ -1,0 +1,29 @@
+**********************************************
+**********************************************
+**                                          **
+**              MATRIX FALL 3               **
+**                                          **
+**********************************************
+**********************************************
+**********************************************
+**************   réalisé par  ****************
+**                                          **
+**                                          **
+**                                          **
+**              Thomas John                 **
+**                                          **
+**          thomas.john@swing.be            **
+**                                          **
+**                                          **
+**       http://www.open-design.be          **
+**                                          **
+**********************************************
+**********************************************
+
+
+Pour l'utiliser comme écran de veille, copiez simplement le fichier "MatrixFall.scr" et le dossier "matrixfall" dans le répertoire de windows ("windows" ou "winnt" par défaut)
+
+
+*********************************************
+
+For use it as a screensaver, simply copy the "MatrixFall.scr" file and the "matrixfall" directory to the windows directory (usualy "windows" or "winnt")
